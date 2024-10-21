@@ -1,0 +1,29 @@
+Task 1: 
+n və m ədədləri daxil edilir.
+n ədədindən m ədədinə qədər ədədlər 1-1 artaraq dövr edir. 
+Şərt: əgər ədəd təkdirsə sayılır, cütdürsə sayılmadan dövr davam edir.
+Sonda sayılan ədədlər hesablanır. 
+
+Task 2:
+n və m ədədləri daxil edilir.
+n ədədindən m ədədinə qədər ədədlər 1-1 artaraq dövr edir. 
+Şərt: əgər ədəd təkdirsə toplanır, cütdürsə toplama əməliyyatı olmadan dövr davam edir.
+Sonda cəm hesablanır. 
+
+Task 3:
+m ədədi daxil edilir.
+1-dən m ədədinə qədər ədədlər 1-1 artaraq dövr edir. 
+Şərt: əgər ədəd cütdürsə vurma əməliyyatı aparılır və dövr davam edir, təkdirsə vurma əməliyyatı olmadan dövr davam edir. 
+Sonda hasil tapılır. 
+
+Task 4: 
+a ədədi verilir. 
+Şərt: əgər ədəd cütdürsə və 3-ə bölünürsə "3-ə bölünür cütdür" yazılır. 
+əgər ədəd təkdirsə və 3-ə bölünürsə "3-ə bölünür təkdir" yazılır.
+əks halda "3-ə bölünmür" yazılır. 
+
+Task 5: 
+n ədədi verilir.
+Şərt: ədədin "<=1" şərti yoxlanır. əgər şərti ödəyirsə, "Ne sade, ne murekkeb ededdir." yazılır. 
+Dövr yaranır. 2-dən n ədədinə qədər yoxlanır. 
+Şərt 2: əgər "num % i == 0" şərti ödənirsə, "Sade ededdir." yazılır. əgər şərt ödənmirsə, "Murekkeb ededdir." yazılır. 
